@@ -1,0 +1,98 @@
+/*////////// back button //////////*/
+.btn_back {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px; left: 30px;
+}
+.btn_back>img {
+  width: 100%;
+}
+
+/*////////// timer //////////*/
+.timer_wrap {
+  width: 100px;
+  height: auto;
+  position: absolute;
+  right: 50px; top: 30px;
+  text-align: center;
+}
+.timer_title{
+  font-size: 20px;
+  color: gray;
+  margin-bottom: 10px;
+  font-weight: 900;
+}
+.timer_game{
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+  line-height: 100px;
+  font-weight: 700;
+  background-color: #FFF;
+  border-radius: 100%;
+}
+
+/*////////// game //////////*/
+.game{
+  width: 375px;
+  height: auto;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: auto;
+  position: absolute;
+  top: 30%;
+  left: 0; right: 0; 
+}
+.game_word{
+  font-size: 60px;
+  font-weight: 900;
+  margin-bottom: 50px;
+}
+.game_input{
+  width: 80%;
+  outline: none;
+  border: 0;
+  padding: 15px;
+  font-size: 25px;
+  font-family: nanum;
+  border-radius: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: #fff;
+}
+.game_score{
+  margin: 10px 0;
+  font-size: 18px;
+  font-weight: 900;
+}
+.game_terminated {
+  font-size: 18px;
+  color: #eca744;
+  font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
