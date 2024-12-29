@@ -1,8 +1,4 @@
 # 🔗 [Typing Game 보러가기 👉](https://mireyhgnay.github.io/typing-game/)
- 
-
-![](https://images.velog.io/images/hyerimiya/post/3d0dff92-db23-4ab8-a2b5-71250237c0d5/game_gif.gif)
-
 
 ## ✏ 프로젝트 소개
 어릴때 컴퓨터에 흥미를 갖게 된 계기가 타자게임을 남들보다 빠르게 잘 했었기때문입니다.  
@@ -23,3 +19,6 @@ HTML, CSS, JAVASCRIPT, JQuery
 JavaScript 에 자신감을 갖게 되면서 시도해보았습니다.  
 Math.random() 기능을 확실하게 이해하여 사용할 수 있게되었고,  
 타이핑게임을 완성했을 때 홈페이지를 완성했을때와는 다른 쾌감을 느끼면서 많은 것들을 배울 수 있었던 프로젝트였습니다.
+
+![](https://images.velog.io/images/hyerimiya/post/3d0dff92-db23-4ab8-a2b5-71250237c0d5/game_gif.gif)
+
