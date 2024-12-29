@@ -1,4 +1,4 @@
-# 🔗 [Typing Game](https://mireyhgnay.github.io/typing-game/)
+# 🔗 [Typing Game 보러가기 👉](https://mireyhgnay.github.io/typing-game/)
  
 
 ![](https://images.velog.io/images/hyerimiya/post/3d0dff92-db23-4ab8-a2b5-71250237c0d5/game_gif.gif)
